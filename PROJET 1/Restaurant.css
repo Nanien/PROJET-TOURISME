@@ -1,0 +1,524 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+/* header */
+header
+{
+	height: 100px;
+	background-color: #0f0e0f;
+}
+
+
+nav ul
+{
+    float: right;
+	height: 120px;
+	list-style-type: none;
+}
+
+nav ul li
+{
+	display: inline-block;
+	margin-right: 6px;
+	margin-top: 35px;
+	font-size: 17px;
+	font-family: Arial, sans-serif;
+	text-transform: uppercase;
+	padding: 0 10px;
+}
+
+nav ul li a
+{
+	text-decoration: none;
+	font-weight: bold;
+	color: white;
+}
+
+nav ul li a:hover
+{
+	color:#fff;
+	background-color:#000;
+	border-radius: 2px;
+}
+
+h1
+{
+	float: left;
+	font-style: 25px;
+	font-family: Arial, sans-serif;
+	color: white;
+	margin-top: 35px;
+	text-transform: uppercase;
+	padding: 0 10px;
+}
+
+.wrapper
+{
+	/*width: 900px;
+	margin: 0 auto; */	
+}
+
+
+/* footer */
+
+footer
+{
+	height: 260px;
+	background-color: #444;
+	text-align: center;
+}
+
+footer h1
+{
+	color: #fff;
+	text-align: center;
+	margin-left: 350px;
+	margin-top: 80px;
+}
+ 
+ .copyright
+ {
+ 	text-align: center;
+ 	font-weight: bold;
+ 	margin-right: 300px;
+ 	padding-top: 50px;
+ 	position: relative;
+ 	bottom: -90px;
+ 	left: 190px;	
+ }
+/* en-tetes */
+
+ #en-tete
+ {
+ 	height: 40px;
+ 	background-color: #333e9a;
+ 	padding-bottom: 30px;
+ }
+
+ .titre0
+ {
+ 	text-align: center;
+ 	padding-left: 60px;
+ 	font-size: 30px;
+ 	font-family: sans-serif;
+ 	font-weight: bold;
+ 	text-transform: uppercase;
+ 	padding-top: 20px;
+ }
+
+
+ #en-tete1
+ {
+ 	height: 50px;
+ 	background-color: #01010f;
+ }
+
+ .titre1
+ {
+ 	text-align: center;
+ 	padding-left: 60px;
+ 	font-size: 30px;
+ 	font-family: sans-serif;
+ 	font-weight: bold;
+ 	text-transform: uppercase;
+ 	padding-top: 10px;
+ 	color: white;
+ }
+
+
+ #en-tete2
+ {
+ 	height: 80px;
+ 	background-color: #01010f;
+ }
+
+ .titre2
+ {
+ 	text-align: center;
+ 	padding-left: 570px;
+ 	font-size: 30px;
+ 	font-family: sans-serif;
+ 	font-weight: bold;
+ 	text-transform: uppercase;
+ 	color: white;
+ }
+
+
+ #en-tete3
+ {
+ 	height: 80px;
+ 	background-color: #01010f;
+ }
+
+ .titre3
+ {
+ 	text-align: center;
+ 	padding-left: 570px;
+ 	font-size: 30px;
+ 	font-family: sans-serif;
+ 	font-weight: bold;
+ 	text-transform: uppercase;
+  	color: white;
+ }
+
+
+ #en-tete4
+ {
+ 	height: 80px;
+ 	background-color: #01010f;
+ }
+
+ .titre4
+ {
+ 	text-align: center;
+ 	padding-left: 550px;
+ 	font-size: 30px;
+ 	font-family: sans-serif;
+ 	font-weight: bold;
+ 	text-transform: uppercase;
+ 	color: white;
+ }
+
+
+ #en-tete5
+ {
+ 	height: 75px;
+ 	background-color: #01010f;
+ }
+
+ .titre5
+ {
+ 	text-align: center;
+ 	padding-left: 550px;
+ 	font-size: 30px;
+ 	font-family: sans-serif;
+ 	font-weight: bold;
+ 	text-transform: uppercase;
+ 	color: white;
+ }
+
+
+/*  mise en page de Restaurant */
+
+#Raffinees
+{
+    padding: 90px 150px;
+    height: 600px;
+    background-color: #f6c6e1;
+}
+
+#Raffinees article
+{
+	width: 460px;
+	height:270px;
+	border-radius: 10px;
+	float: left;
+}
+
+.overlay
+{
+	background: rgba(255,255,255,0.80);
+	height: 85.3%;
+	width: 190px;
+	padding: 20px;
+	border-radius: 10px 0 0 10px;
+	text-align: center; 
+}
+
+
+.bouton
+{
+	color:#fff;
+	background-color:#ff7a00;
+	padding: 6px 20px;
+	border-radius: 3px;
+	text-decoration: none;
+}
+
+.bouton:hover
+{
+	color:#fff;
+	background-color:#02badd;
+}
+
+article h2
+{
+	border-bottom: 1px solid #191970;
+	padding-bottom: 20px;
+	margin-bottom: 140px;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+
+#locale
+{
+    padding: 90px 150px;
+    height: 600px;
+    background-color: #f6c6e1;
+}
+
+#locale article
+{
+	width: 460px;
+	height:270px;
+	border-radius: 10px;
+	float: left;
+}
+
+.overlay
+{
+	background: rgba(255,255,255,0.80);
+	height: 85.3%;
+	width: 190px;
+	padding: 20px;
+	border-radius: 10px 0 0 10px;
+	text-align: center; 
+}
+
+
+.bouton
+{
+	color:#fff;
+	background-color:#ff7a00;
+	padding: 6px 20px;
+	border-radius: 3px;
+	text-decoration: none;
+}
+
+.bouton:hover
+{
+	color:#fff;
+	background-color:#02badd;
+}
+
+article h2
+{
+	border-bottom: 1px solid #191970;
+	padding-bottom: 20px;
+	margin-bottom: 140px;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+
+
+#moderes
+{
+    padding: 90px 150px;
+    height: 600px;
+    background-color: #f6c6e1;
+}
+
+#moderes article
+{
+	width: 460px;
+	height:270px;
+	border-radius: 10px;
+	float: left;
+}
+
+.overlay
+{
+	background: rgba(255,255,255,0.80);
+	height: 85.3%;
+	width: 190px;
+	padding: 20px;
+	border-radius: 10px 0 0 10px;
+	text-align: center; 
+}
+
+
+.bouton
+{
+	color:#fff;
+	background-color:#ff7a00;
+	padding: 6px 20px;
+	border-radius: 3px;
+	text-decoration: none;
+}
+
+.bouton:hover
+{
+	color:#fff;
+	background-color:#02badd;
+}
+
+article h2
+{
+	border-bottom: 1px solid #191970;
+	padding-bottom: 20px;
+	margin-bottom: 140px;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+
+
+#economique
+{
+    padding: 90px 150px;
+    height: 600px;
+    background-color: #f6c6e1;
+}
+
+#economique article
+{
+	width: 460px;
+	height:270px;
+	border-radius: 10px;
+	float: left;
+}
+
+.overlay
+{
+	background: rgba(255,255,255,0.80);
+	height: 85.3%;
+	width: 190px;
+	padding: 20px;
+	border-radius: 10px 0 0 10px;
+	text-align: center; 
+}
+
+
+.bouton
+{
+	color:#fff;
+	background-color:#ff7a00;
+	padding: 6px 20px;
+	border-radius: 3px;
+	text-decoration: none;
+}
+
+.bouton:hover
+{
+	color:#fff;
+	background-color:#02badd;
+}
+
+article h2
+{
+	border-bottom: 1px solid #191970;
+	padding-bottom: 20px;
+	margin-bottom: 140px;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+
+
+#pti-dej
+{
+    padding: 90px 150px;
+    height: 600px;
+    background-color: #f6c6e1;
+}
+
+#pti-dej article
+{
+	width: 460px;
+	height:270px;
+	border-radius: 10px;
+	float: left;
+}
+
+.overlay
+{
+	background: rgba(255,255,255,0.80);
+	height: 85.3%;
+	width: 190px;
+	padding: 20px;
+	border-radius: 10px 0 0 10px;
+	text-align: center; 
+}
+
+
+.bouton
+{
+	color:#fff;
+	background-color:#ff7a00;
+	padding: 6px 20px;
+	border-radius: 3px;
+	text-decoration: none;
+}
+
+.bouton:hover
+{
+	color:#fff;
+	background-color:#02badd;
+}
+
+article h2
+{
+	border-bottom: 1px solid #191970;
+	padding-bottom: 20px;
+	margin-bottom: 140px;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+
+.le-grand-large
+{
+	margin-left: 70px;
+	margin-bottom: 60px;
+}
+
+.montparnasse
+{
+	margin-left: 70px;
+	margin-bottom: 60px;
+}
+
+.debarcadere
+{
+	margin-left: 70px;
+	margin-bottom: 60px;
+}
+
+.saakan
+{
+	margin-left: 70px;
+	margin-bottom: 60px;
+}
+
+
+.mechoui
+{
+	margin-left: 70px;
+	margin-bottom: 60px;
+}
+
+.brasserie
+{
+	margin-left: 70px;
+	margin-bottom: 60px;
+}
+
+.helene
+{
+	margin-left: 70px;
+	margin-bottom: 60px;
+}
+
+.feu-de-bois
+{
+	margin-left: 70px;
+	margin-bottom: 60px;
+}
+
+
+.paul
+{
+	margin-left: 70px;
+	margin-bottom: 60px;
+}
+
+.nougatine
+{
+	margin-left: 70px;
+	margin-bottom: 60px;
+}

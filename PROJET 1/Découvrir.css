@@ -1,0 +1,224 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+/* header */
+header
+{
+	height: 100px;
+	background-color: #0f0e0f;
+}
+
+
+nav ul
+{
+    float: right;
+	height: 120px;
+	list-style-type: none;
+}
+
+nav ul li
+{
+	display: inline-block;
+	margin-right: 6px;
+	margin-top: 35px;
+	font-size: 17px;
+	font-family: Arial, sans-serif;
+	text-transform: uppercase;
+	padding: 0 10px;
+}
+
+nav ul li a
+{
+	text-decoration: none;
+	font-weight: bold;
+	color: white;
+}
+
+h1
+{
+	float: left;
+	font-style: 25px;
+	font-family: Arial, sans-serif;
+	color: white;
+	margin-top: 35px;
+	text-transform: uppercase;
+	padding: 0 10px;
+}
+
+.wrapper
+{
+	width: 900px;
+	margin: 0 auto; 	
+}
+
+
+/* footer */
+
+footer
+{
+	height: 260px;
+	background-color: #444;
+	text-align: center;
+}
+
+footer h1
+{
+	color: #fff;
+	text-align: center;
+	padding: 80px;
+}
+ 
+ .copyright
+ {
+ 	text-align: center;
+ 	font-weight: bold;
+ 	padding-right: 30px;
+ 	
+ }
+
+
+
+/* definition */
+
+#definition
+{
+	height: 800px;
+	background-color: #8bccec; 
+}
+
+
+.wrapper
+{
+	margin-left: 40px;
+	margin-right;
+	padding: 0px;
+}
+
+
+.ab
+{
+	margin-left: 300px;
+	font-size: 40px;
+	font-family: serif;
+	color: #072367;
+}
+
+.texte1
+{
+	line-height: 35px;
+	font-size: 20px;
+	text-indent: 30px;
+	padding-top: 5px;
+	
+}
+
+.img2
+{
+	float: left;
+}
+
+.img3
+{
+	float: right;
+}
+
+
+
+/* climat */
+
+#climat
+{
+	height: 400px;
+	background-color: #ee3d33;
+}
+
+
+.ab1
+{
+	margin-left: 300px;
+	font-size: 40px;
+	font-family: serif;
+	color: #072367;
+}
+
+.texte2
+{
+	line-height: 35px;
+	font-size: 20px;
+	text-indent: 50px;
+	margin-right: 0px;
+}
+
+
+
+/* decoupage-territorial */
+
+
+#decoupage-territorial
+{
+	height: 1900px;
+	background-color: #ec8bcf;
+}
+
+.wrapper
+{
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+
+.ab2
+{
+	margin-left: 300px;
+	font-size: 40px;
+	font-family: serif;
+	color: #072367;
+}
+
+.texte3
+{
+	line-height: 35px;
+	font-size: 20px;
+	text-indent: 50px;
+	margin-right: 0px;
+}
+
+
+
+/* Le Tourisme */
+
+
+#tourisme
+{
+	height: 1200px;
+	background-color: #A2958B;
+}
+
+.wrapper
+{
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+
+.ab3
+{
+	margin-left: 500px;
+	font-size: 40px;
+	font-family: serif;
+	color: #072367;
+}
+
+.texte4
+{
+	line-height: 35px;
+	font-size: 20px;
+	text-indent: 50px;
+	margin-right: 0px;
+}
+
+
+
+

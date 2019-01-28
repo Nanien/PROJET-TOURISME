@@ -1,0 +1,187 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+/* header */
+header
+{
+	height: 100px;
+	background-color: #0f0e0f;
+}
+
+
+nav ul
+{
+    float: right;
+	height: 120px;
+	list-style-type: none;
+}
+
+nav ul li
+{
+	display: inline-block;
+	margin-right: 6px;
+	margin-top: 35px;
+	font-size: 17px;
+	font-family: Arial, sans-serif;
+	text-transform: uppercase;
+	padding: 0 10px;
+}
+
+nav ul li a
+{
+	text-decoration: none;
+	font-weight: bold;
+	color: white;
+}
+
+nav ul li a:hover
+{
+	color:#fff;
+	background-color:#000;
+	border-radius: 2px;
+}
+
+h1
+{
+	float: left;
+	font-style: 25px;
+	font-family: Arial, sans-serif;
+	color: white;
+	margin-top: 35px;
+	text-transform: uppercase;
+	padding: 0 10px;
+}
+
+.wrapper
+{
+	/*width: 900px;
+	margin: 0 auto; */	
+}
+
+
+/* footer */
+
+footer
+{
+	height: 260px;
+	background-color: #444;
+	text-align: center;
+}
+
+footer h1
+{
+	color: #fff;
+	text-align: center;
+	margin-left: 350px;
+	margin-top: 80px;
+}
+ 
+ .copyright
+ {
+ 	text-align: center;
+ 	font-weight: bold;
+ 	margin-right: 300px;
+ 	padding-top: 50px;
+ 	position: relative;
+ 	bottom: -90px;
+ 	left: 190px;	
+ }
+
+ /* en-tete */
+
+ #en-tete
+ {
+ 	height: 130px;
+ 	background-color: #333e9a;
+ }
+
+ .titre0
+ {
+ 	text-align: center;
+ 	padding-left: 60px;
+ 	font-size: 30px;
+ 	font-family: arial,sans-serif;
+ 	font-weight: bold;
+ 	text-transform: uppercase;
+ }
+
+
+
+/*  mise en page de hotels */
+
+#hotels
+{
+	background-color: #efefef;
+    padding: 90px 150px;
+    height: 1200px;
+    background-color: #bad9db;
+}
+
+#hotels article
+{
+	width: 460px;
+	height:270px;
+	border-radius: 10px;
+	float: left;
+}
+
+.overlay
+{
+	background: rgba(255,255,255,0.80);
+	height: 85.3%;
+	width: 190px;
+	padding: 20px;
+	border-radius: 10px 0 0 10px;
+	text-align: center; 
+}
+
+
+.bouton
+{
+	color:#fff;
+	background-color:#ff7a00;
+	padding: 6px 20px;
+	border-radius: 3px;
+	text-decoration: none;
+}
+
+.bouton:hover
+{
+	color:#fff;
+	background-color:#02badd;
+}
+
+article h3
+{
+	border-bottom: 1px solid #191970;
+	padding-bottom: 20px;
+	margin-bottom: 140px;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.ibis
+{
+	margin-left: 70px;
+	margin-bottom: 60px;
+}
+
+.onomo
+{
+	margin-left: 70px;
+	margin-bottom: 60px;
+}
+
+.sofitel
+{
+	margin-left: 70px;
+	margin-bottom: 60px;
+}
+
+.detente
+{
+	margin-left: 70px;
+	margin-bottom: 60px;
+}

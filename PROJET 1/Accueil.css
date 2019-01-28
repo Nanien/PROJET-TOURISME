@@ -1,0 +1,168 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+/* header */
+header
+{
+	height: 100px;
+}
+
+
+nav ul
+{
+    float: right;
+	height: 120px;
+	list-style-type: none;
+}
+
+nav ul li
+{
+	display: inline-block;
+	margin-right: 6px;
+	margin-top: 35px;
+	font-size: 17px;
+	font-family: Arial, sans-serif;
+	text-transform: uppercase;
+	padding: 0 10px;
+}
+
+nav ul li a
+{
+	text-decoration: none;
+	font-weight: bold;
+}
+
+h1
+{
+	float: left;
+	font-style: 25px;
+	font-family: Arial, sans-serif;
+	color: #870069;
+	margin-top: 35px;
+	text-transform: uppercase;
+	padding: 0 10px;
+}
+
+.wrapper
+{
+	width: 900px;
+	margin: 0 auto; 	
+}
+
+
+/* image */
+
+#image
+{
+	height: 500px;
+	background: url('tourisme/1.jpg') center;
+	background-position: center;
+}
+
+h2
+{
+	text-align: center;
+	padding: 380px 0px 50px 0px;
+	font-size: 70px;
+	font-family: sans-serif;
+	color: #bce31f;
+}
+
+
+ /* contact */
+
+ #contact
+ {
+ 	background: #ebf9f5;
+ 	padding-left: 10px;
+ 	text-align: center;
+ 	padding: 30px;
+ }
+ h3
+ {
+ 	text-align: center;
+ 	color: #1A1335;
+ 	margin-top: 23px;
+ 	margin-bottom: 20px;
+ 	font-size: 45px;
+ 	font-family: sans-serif;
+ 	text-transform: uppercase;
+ }
+
+ p
+ {
+ 	text-align: center;
+ 	line-height: 30px;
+ 	font-family: sans-serif Arial;
+ 	font-size: 20px;
+ 	color: #e38181;
+ }
+
+ .form
+ {
+ 	padding-top: 15px;
+ 	padding-right: 30px;
+ 	font-size: 20px;
+ 	font-family: sans-serif;
+ 	margin-left: 15px;
+ }
+
+ label
+ {
+ 	margin-right: 5px;
+ 	font-weight: bold;
+ }
+
+ #name
+ {
+    font-size: 15px;
+    padding: 5px;
+ }
+
+ #email
+ {
+    font-size: 15px;
+    padding: 5px;
+ }
+	
+.bouton
+{
+	font-size: 20px;
+	font-weight: bold;
+	padding: 5px 10px;
+	text-align: center;
+	background-color: #00CED1;
+	border: none;
+}
+
+input[type="text"]
+{
+	margin: 20px;
+}
+
+
+/* footer */
+
+footer
+{
+	height: 260px;
+	background-color: #444;
+	text-align: center;
+}
+
+footer h1
+{
+	color: #fff;
+	text-align: center;
+	padding: 80px;
+}
+ 
+ .copyright
+ {
+ 	text-align: center;
+ 	font-weight: bold;
+ 	padding-right: 30px;
+ 	
+ }
